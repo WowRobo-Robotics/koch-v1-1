@@ -146,7 +146,7 @@ While this robot can be programmed in a variety of manners, it is suggested to u
 
 #### WowRobo’s Mass-Produced Version of the Open-Source Koch v1.1
 
-![WowRobo Mass-Produced Version](./images/wowrobo.png)
+![WowRobo Mass-Produced Version](./pictures/wowrobo.png)
 
 WowRobo-Robotics now offers a mass-produced version of the Koch v1.1 robot arm, optimized for researchers and educators who want a ready-to-use learning tool. This version of the Koch robot arm includes several key improvements:
 
